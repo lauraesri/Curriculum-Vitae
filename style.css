@@ -1,0 +1,40 @@
+body {
+    padding: 0px;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #59B1E1;
+}
+.header {
+    display: flex;
+    padding: 10px;
+    background-color: #59B1E1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.icon {
+    text-align: right;
+}
+.info-header {
+    margin-left: 20px;
+}
+body ul {
+    list-style: none
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.curriculum{
+    padding: 0px;
+    display: flex;
+    background-color: #FCC8A1;
+}
+.formacion {
+    padding-left: 30px;
+    background-color: white;
+}
+.skills {
+    padding-left: 15px;
+    padding-right: 20px;
+    color: white;
+}
+
